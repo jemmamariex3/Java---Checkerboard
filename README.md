@@ -4,12 +4,19 @@ Basics - Introduction to Java: Nested Arrays
 Generate the following using 2D array and nested for loops
 
 1 0 1 0 1 0 1 0 
+
 0 1 0 1 0 1 0 1 
+
 1 0 1 0 1 0 1 0 
+
 0 0 0 0 0 0 0 0 
+
 0 0 0 0 0 0 0 0 
+
 0 1 0 1 0 1 0 1 
+
 2 0 2 0 2 0 2 0 
+
 0 2 0 2 0 2 0 2 
 
 Where -
